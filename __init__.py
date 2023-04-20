@@ -7,7 +7,7 @@ bl_info = {
     "location" : "",
     "warning" : "",
     "doc_url": "", 
-    "tracker_url": "", 
+    "tracker_url": "https://github.com/scifx/blender-language-switcher/issues", 
     "category" : "User Interface" 
 }
 
