@@ -12,5 +12,6 @@
 ## 用法提要
 - 在blender插件面板勾选启用插件后
 - 直接点击菜单栏的“语言”，点击即可来回切换中英文界面显示
+- 快捷键"Ctrl+Shift+L"
 
 ![img](https://raw.githubusercontent.com/scifx/blender-language-switcher/main/plugin_on.png)
